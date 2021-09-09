@@ -1,13 +1,13 @@
 [{
         "id": 1,
-        "title": "[S1] How the coronavirus spread in Hong Kong",
+        "title": "[S1] How the Coronavirus Spread in Hong Kong",
         "genre": "infographic",
         "source": "SCMP",
         "year": "2020",
         "link": "https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202004A256.html",
         "tag": "stimuli",
         "topic": "Health",
-        "description": "Where the COVID cases in Hong Kong came from.",
+        "description": "Where the COVID cases in Hong Kong came from?",
         "recommender": "E1",
         "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_1'>sharp/distorted shape</span>"
     },
@@ -20,7 +20,7 @@
         "link": "https://www.nytimes.com/interactive/2021/01/27/us/us-coronavirus-deaths-rate.html",
         "tag": "stimuli",
         "topic": "Health",
-        "description": "Using 500,000 dots to represent trend of COVID-19 along a timeline.",
+        "description": "Using 500,000 dots to show the trend of COVID-19 along a timeline.",
         "recommender": "E2",
         "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_5'>stretched layout</span>"
     },
@@ -33,13 +33,13 @@
         "link": "https://www.nytimes.com/interactive/2020/05/24/us/us-coronavirus-deaths-100000.html",
         "tag": "stimuli",
         "topic": "Health",
-        "description": "Introducing who are the 100,000 people who died from COVID-19.",
+        "description": "Who are the 100,000 people who died from COVID-19?",
         "recommender": "E2",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>user behavior bound timer/counter</span><span class='badge badge_5'>stretched layout</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>user behavior bound timer/counter</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 4,
-        "title": "[S4] What does 425,000 Covid deaths sound like?",
+        "title": "[S4] What Does 425,000 Covid Deaths Sound Like?",
         "genre": "video",
         "source": "CarniDC",
         "year": "2021",
@@ -52,7 +52,7 @@
     },
     {
         "id": 5,
-        "title": "[S5] Who has died from Covid-19 in the US?",
+        "title": "[S5] Who Has Died From Covid-19 in the US?",
         "genre": "web",
         "source": "Vox",
         "year": "2021",
@@ -65,7 +65,7 @@
     },
     {
         "id": 6,
-        "title": "[S6] 500,000 dead, a number almost too large to grasp",
+        "title": "[S6] 500,000 Dead, a Number Almost Too Large To Grasp",
         "genre": "web",
         "source": "Washington Post",
         "year": "2021",
@@ -87,7 +87,7 @@
         "topic": "Health",
         "description": "The coronavirus exposed the rampant inequality in the US.",
         "recommender": "E5",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_1'>heavy use of red</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotive language</span><span class='badge badge_4'>user behavior bound timer/counter</span>"
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_1'>heavy use of red</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_4'>user behavior bound timer/counter</span>"
     },
     {
         "id": 8,
@@ -113,11 +113,11 @@
         "topic": "Health",
         "description": "A newsgame that asks users to make decisions on their outdoor activities and see how the virus spreads.",
         "recommender": "E7",
-        "method": "<span class='badge badge_2'>role-play game</span><span class='badge badge_3'>negative phrasing</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_6'>tough task</span>"
+        "method": "<span class='badge badge_2'>role-playing game</span><span class='badge badge_3'>direct address</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_6'>tough task</span>"
     },
     {
         "id": 10,
-        "title": "[S10] Coronavirus: How can we imagine the scale of Covid's death toll?",
+        "title": "[S10] Coronavirus: How Can We Imagine the Scale of Covid's Death Toll?",
         "genre": "web",
         "source": "BBC",
         "year": "2020",
@@ -130,7 +130,7 @@
     },
     {
         "id": 11,
-        "title": "[S11] The pace of death",
+        "title": "[S11] The Pace of Death",
         "genre": "web",
         "source": "Reuters",
         "year": "2021",
@@ -143,20 +143,20 @@
     },
     {
         "id": 12,
-        "title": "[S12] Lifelines: a pandemic undertow",
+        "title": "[S12] Lifelines: A Pandemic Undertow",
         "genre": "web",
         "source": "Periscopic",
         "year": "2021",
         "link": "https://lifelines.periscopic.com/",
         "tag": "stimuli",
         "topic": "Health",
-        "description": "This story calls for the attention to the need for mental health and addiction support after the outbreak of COVID-19.",
+        "description": "This story calls for attention to the need for mental health and addiction support after the outbreak of COVID-19.",
         "recommender": "E5",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>negative phrasing</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>direct address</span>"
     },
     {
         "id": 13,
-        "title": "[S13] What if all Covid‑19 deaths in Brazil happened in your neighborhood?",
+        "title": "[S13] What if All COVID-19 Deaths in Brazil Happened in Your Neighborhood?",
         "genre": "web",
         "source": "Lupa, Google",
         "year": "2020",
@@ -165,11 +165,76 @@
         "topic": "Health",
         "description": "Imagine you live in Brazil and see how many of your neighbors have died because of COVID-19.",
         "recommender": "E9",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>role-play game</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>unit visualization</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>role-playing game</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>unit visualization</span>"
+    },
+    {
+        "id": 40,
+        "title": "U.S. Gun Deaths",
+        "genre": "web",
+        "source": "Periscopic",
+        "year": "n.d.",
+        "link": "https://guns.periscopic.com/",
+        "tag": "",
+        "topic": "Society / Safety",
+        "description": "How many lives have been stolen by gun shootings and who they are?",
+        "recommender": "Experimenter",
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_1'>dark background</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_4'>self-run animation</span>"
+    },
+    {
+        "id": 41,
+        "title": "The Fallen of World War II",
+        "genre": "video",
+        "source": "Neil Hallora",
+        "year": "2016",
+        "link": "http://www.fallen.io/ww2/",
+        "tag": "",
+        "topic": "Military",
+        "description": "Explaining the death toll of WWII and reflecting on this tragedy.",
+        "recommender": "Experimenter",
+        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dark background</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_5'>stretched layout</span>"
+    },
+    {
+        "id": 28,
+        "title": "The Water We Eat",
+        "genre": "web",
+        "source": "InfoDesignLab",
+        "year": "2017",
+        "link": "http://thewaterweeat.com/",
+        "tag": "",
+        "topic": "Environment",
+        "description": "Showing how much water we use every day and calling for water-saving.",
+        "recommender": "Experimenter",
+        "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>direct address</span><span class='badge badge_5'>stretched layout</span>"
+    },
+    {
+        "id": 42,
+        "title": "One LGBT+ Person Is Killed Every Day in Brazil",
+        "genre": "infographic",
+        "source": "Evandro Damiao",
+        "year": "2018",
+        "link": "https://www.informationisbeautifulawards.com/showcase/3176-one-lgbt-person-is-killed-every-day-in-brazil",
+        "tag": "",
+        "topic": "Society",
+        "description": "The violence to LGBT+ people in Brazil.",
+        "recommender": "Experimenter",
+        "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span>"
+    },
+    {
+        "id": 43,
+        "title": "Do You Know Who's Watching You",
+        "genre": "infographic",
+        "source": "Wordstream",
+        "year": "n.d.",
+        "link": "https://visual.ly/community/Infographics/technology/do-you-know-whos-watching-you",
+        "tag": "",
+        "topic": "Society",
+        "description": "The serious consequences brought by the leak of private data.",
+        "recommender": "Experimenter",
+        "method": "<span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>direct address</span>"
     },
     {
         "id": 14,
-        "title": "Hurricane Maria was a partly manmade disaster.",
+        "title": "Hurricane Maria Was a Partly Manmade Disaster",
         "genre": "web",
         "source": "Quartz",
         "year": "2018",
@@ -191,11 +256,11 @@
         "topic": "Health / Gender",
         "description": "This work talks about the mothers who died in childbirth and reported the stories of 16 mothers.",
         "recommender": "E1",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>self-run animation</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>self-run animation</span>"
     },
     {
         "id": 16,
-        "title": "In Africa, a virus spreads",
+        "title": "In Africa, a Virus Spreads",
         "genre": "web",
         "source": "Reuters",
         "year": "2018",
@@ -234,7 +299,7 @@
     },
     {
         "id": 19,
-        "title": "The angry face of nature",
+        "title": "The Angry Face of Nature",
         "genre": "infographic",
         "source": "Mohamad Waked",
         "year": "2020",
@@ -243,7 +308,7 @@
         "topic": "Natural disaster",
         "description": "A project that visualizes the notable natural disasters in the world.",
         "recommender": "E1",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotive language</span>"
+        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span>"
     },
     {
         "id": 20,
@@ -256,11 +321,11 @@
         "topic": "Politics / Media",
         "description": "This project visualizes the emotions expressed by Trump's twitters.",
         "recommender": "E1",
-        "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotive language</span>"
+        "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span>"
     },
     {
         "id": 21,
-        "title": "The terrible numbers that grow with each mass shooting",
+        "title": "The Terrible Numbers That Grow With Each Mass Shooting",
         "genre": "web",
         "source": "Washington Post",
         "year": "2012",
@@ -269,7 +334,7 @@
         "topic": "Society / Safety",
         "description": "1,322 people killed by gun shootings and who are the shooters",
         "recommender": "E2",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_5'>stretched layout</span>"
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 22,
@@ -293,20 +358,20 @@
         "link": "http://drones.pitchinteractive.com/",
         "tag": "",
         "topic": "Military",
-        "description": "The innocent Pakistan people who were attacked by drones.",
+        "description": "Many innocent Pakistani people were attacked by drones.",
         "recommender": "E2",
         "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>self-run animation</span>"
     },
     {
         "id": 24,
-        "title": "Iraq's bloody toll",
+        "title": "Iraq's Bloody Toll",
         "genre": "infographic",
         "source": "SCMP",
         "year": "2011",
         "link": "http://www.simonscarr.com/iraqs-bloody-toll",
         "tag": "",
         "topic": "Military",
-        "description": "How many soldiers have sacrificed during the Iraq war.",
+        "description": "How many soldiers have sacrificed during the Iraq war?",
         "recommender": "E2",
         "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span>"
     },
@@ -325,7 +390,7 @@
     },
     {
         "id": 26,
-        "title": "Going gray",
+        "title": "Going Gray",
         "genre": "web",
         "source": "Reuters",
         "year": "2019",
@@ -338,7 +403,7 @@
     },
     {
         "id": 27,
-        "title": "The Stories behind a line",
+        "title": "The Stories Behind a Line",
         "genre": "web",
         "source": "Federica FragapaneAlex Piacentini",
         "year": "2016",
@@ -350,22 +415,9 @@
         "method": "<span class='badge badge_2'>details behind data</span>"
     },
     {
-        "id": 28,
-        "title": "The Water We Eat",
-        "genre": "web",
-        "source": "InfoDesignLab",
-        "year": "2017",
-        "link": "http://thewaterweeat.com/",
-        "tag": "",
-        "topic": "Environment",
-        "description": "Showing how much water we use everyday and calling for water saving.",
-        "recommender": "Experimenter",
-        "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>negative phrasing</span><span class='badge badge_5'>stretched layout</span>"
-    },
-    {
         "id": 29,
         "title": "My Plastic Footprint",
-        "genre": "physical art",
+        "genre": "web",
         "source": "Rogue Penguin",
         "year": "2020",
         "link": "https://www.myplasticfootprint.co.nz/about",
@@ -380,17 +432,17 @@
         "title": "Imaging Mental Health in America",
         "genre": "infographic",
         "source": "Giorgia Lupi",
-        "year": "unknown",
+        "year": "n.d.",
         "link": "https://www.rand.org/about/nextgen/art-plus-data/giorgia-lupi/imaging-mental-health-in-america.html",
         "tag": "",
         "topic": "Health",
-        "description": "How is the mental health of Americans.",
+        "description": "How is the mental health of Americans?",
         "recommender": "E4",
         "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>sharp/distorted shape</span>"
     },
     {
         "id": 31,
-        "title": "What vets are experiencing",
+        "title": "What Vets Are Experiencing",
         "genre": "web",
         "source": "Periscopic",
         "year": "2014",
@@ -403,20 +455,20 @@
     },
     {
         "id": 32,
-        "title": "Beneath the blue: dive into a dazzling ocean under threat",
+        "title": "Beneath the Blue: Dive Into a Dazzling Ocean Under Threat",
         "genre": "web",
         "source": "The Guardian",
         "year": "2021",
         "link": "https://www.theguardian.com/environment/ng-interactive/2021/feb/23/beneath-the-blue-dive-into-a-dazzling-ocean-under-threat-interactive",
         "tag": "",
         "topic": "Environment",
-        "description": "The author splits the depth of the ocean into segments and explain the pollution in each segment.",
+        "description": "The author splits the depth of the ocean into segments and explains the pollution in each segment.",
         "recommender": "E5",
         "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 33,
-        "title": "A visual analysis of the MeToo Movement",
+        "title": "A Visual Analysis of the MeToo Movement",
         "genre": "web",
         "source": "Valentina D'efilippo, Lucia Kocincova",
         "year": "2018",
@@ -429,7 +481,7 @@
     },
     {
         "id": 34,
-        "title": "A plateful of plastic: Visualising the amount of microplastic we eat",
+        "title": "A Plateful of Plastic: Visualising the Amount of Microplastic We Eat",
         "genre": "web",
         "source": "Reuters",
         "year": "2019",
@@ -442,7 +494,7 @@
     },
     {
         "id": 35,
-        "title": "Educate your child",
+        "title": "Educate Your Child",
         "genre": "web",
         "source": "Gabrielle LaMarr LeMee",
         "year": "2018",
@@ -451,18 +503,18 @@
         "topic": "Education",
         "description": "A newsgame that asks users to make decisions for the education of their children.",
         "recommender": "E7",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_2'>role-play game</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_2'>role-playing game</span>"
     },
     {
         "id": 36,
-        "title": "India Elections 2019: The figures behind the faces",
+        "title": "India Elections 2019: The Figures Behind the Faces",
         "genre": "web",
         "source": "Reuters",
         "year": "2019",
         "link": "https://graphics.reuters.com/INDIA-ELECTION-CRIMINAL-CANDIDATES/0100925031T/index.html",
         "tag": "",
         "topic": "Politics",
-        "description": "The visualization of all the candidates in India elections which implies social inequality.",
+        "description": "The visualization of all the candidates in Indian elections shows social inequality.",
         "recommender": "E7",
         "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_5'>stretched layout</span>"
     },
@@ -481,10 +533,10 @@
     },
     {
         "id": 38,
-        "title": "Explore 17,369 officers who used force in N.J.",
+        "title": "Explore 17,369 Officers Who Used Force in N.J.",
         "genre": "web",
         "source": "NJ.com",
-        "year": "unknown",
+        "year": "n.d.",
         "link": "https://projects.nj.com/data/force-visual/",
         "tag": "",
         "topic": "Society / Safety",
@@ -494,7 +546,7 @@
     },
     {
         "id": 39,
-        "title": "O cálculo de uma tragédia",
+        "title": "O Cálculo De Uma Tragédia",
         "genre": "web",
         "source": "NEXO",
         "year": "2020",
@@ -506,60 +558,8 @@
         "method": "<span class='badge badge_1'>big size</span><span class='badge badge_1'>heavy use of red</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
-        "id": 40,
-        "title": "U.S. Gun Deaths",
-        "genre": "web",
-        "source": "Periscopic",
-        "year": "unknown",
-        "link": "https://guns.periscopic.com/",
-        "tag": "",
-        "topic": "Society / Safety",
-        "description": "How many lives have been stolen by gun shootings and who they are.",
-        "recommender": "Experimenter",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_1'>dark background</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_4'>self-run animation</span>"
-    },
-    {
-        "id": 41,
-        "title": "The Fallen of World War II",
-        "genre": "data video, web",
-        "source": "Neil Hallora",
-        "year": "2016",
-        "link": "http://www.fallen.io/ww2/",
-        "tag": "",
-        "topic": "Military",
-        "description": "Explaining the death toll of WWII and reflecting on this tragedy.",
-        "recommender": "Experimenter",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dark background</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotive language</span><span class='badge badge_5'>stretched layout</span>"
-    },
-    {
-        "id": 42,
-        "title": "One LGBT+ person is killed every day in Brazil",
-        "genre": "infographic",
-        "source": "Evandro Damiao",
-        "year": "2018",
-        "link": "https://www.informationisbeautifulawards.com/showcase/3176-one-lgbt-person-is-killed-every-day-in-brazil",
-        "tag": "",
-        "topic": "Society",
-        "description": "The violence to LGBT+ people in Brazil.",
-        "recommender": "Experimenter",
-        "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span>"
-    },
-    {
-        "id": 43,
-        "title": "Do you know who's watching you",
-        "genre": "infographic",
-        "source": "Wordstream",
-        "year": "unknown",
-        "link": "https://visual.ly/community/Infographics/technology/do-you-know-whos-watching-you",
-        "tag": "",
-        "topic": "Society",
-        "description": "The serious consequences brought by the leak of private data.",
-        "recommender": "Experimenter",
-        "method": "<span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>negative phrasing</span>"
-    },
-    {
         "id": 44,
-        "title": "How Belarusian police beat protesters",
+        "title": "How Belarusian Police Beat Protesters",
         "genre": "web",
         "source": "Mediazona",
         "year": "2020",
@@ -572,14 +572,14 @@
     },
     {
         "id": 45,
-        "title": "Drowning in plastic",
+        "title": "Drowning in Plastic",
         "genre": "web",
         "source": "Reuters",
         "year": "2019",
         "link": "https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.html",
         "tag": "",
         "topic": "Environment",
-        "description": "Visualising the world’s addiction to plastic bottles.",
+        "description": "Visualizing the world’s addiction to plastic bottles.",
         "recommender": "E9",
         "method": "<span class='badge badge_1'>big size</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_4'>user behavior bound timer/counter</span>"
     },
@@ -594,7 +594,7 @@
         "topic": "Economy",
         "description": "Enter your income and see whether you are rich.",
         "recommender": "E9",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_3'>negative phrasing</span>"
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_3'>direct address</span>"
     },
     {
         "id": 47,
@@ -605,26 +605,26 @@
         "link": "https://theoceancleanup.com/sources/#",
         "tag": "",
         "topic": "Environment",
-        "description": "How plastic is sent to the ocean through various rivers in the world.",
+        "description": "How plastic is sent to the ocean through various rivers in the world?",
         "recommender": "E4",
         "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_4'>user behavior bound timer/counter</span>"
     },
     {
         "id": 48,
-        "title": "The age of the “megafire”",
+        "title": "The Age of the “Megafire”",
         "genre": "web",
         "source": "Reuters",
         "year": "2021",
         "link": "https://graphics.reuters.com/USA-WILDFIRES/EXTREMES/qzjvqmmravx/index.html",
         "tag": "",
         "topic": "Natural disaster",
-        "description": "This story visualizes the 38 biggest megafires in western US.",
+        "description": "This story visualizes the 38 biggest mega-fires in the western US.",
         "recommender": "E5",
         "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_4'>self-run animation</span>"
     },
     {
         "id": 49,
-        "title": "Do you know Africa?",
+        "title": "Do You Know Africa?",
         "genre": "web",
         "source": "Washington Post",
         "year": "2014",
@@ -646,14 +646,14 @@
         "topic": "Health",
         "description": "Play as a life server who needs to send the patients to the closest hospital.",
         "recommender": "E9",
-        "method": "<span class='badge badge_2'>role-play game</span><span class='badge badge_6'>tough task</span>"
+        "method": "<span class='badge badge_2'>role-playing game</span><span class='badge badge_6'>tough task</span>"
     },
     {
         "id": 51,
-        "title": "Wealth shown to scale",
+        "title": "Wealth Shown To Scale",
         "genre": "web",
         "source": "Mkorostoff",
-        "year": "unknown",
+        "year": "n.d.",
         "link": "https://mkorostoff.github.io/1-pixel-wealth/",
         "tag": "",
         "topic": "Economy",
@@ -663,20 +663,20 @@
     },
     {
         "id": 52,
-        "title": "Wie lange arbeiten Sie für das Gehalt der anderen?",
+        "title": "Wie Lange Arbeiten Sie Für Das Gehalt Der Anderen?",
         "genre": "web",
         "source": "Morgenpost",
         "year": "2019",
         "link": "https://interaktiv.morgenpost.de/das-gehalt-der-anderen-gehaltsvergleich/",
         "tag": "",
         "topic": "Economy",
-        "description": "How much time you need to spend to earn others' salary.",
+        "description": "How much time do you need to spend to earn others' salaries?",
         "recommender": "E9",
         "method": "<span class='badge badge_3'>concrete scale</span>"
     },
     {
         "id": 53,
-        "title": "So schnell verdienen die deutschen Nationalspieler dein Monatsgehalt",
+        "title": "So Schnell Verdienen Die Deutschen Nationalspieler Dein Monatsgehalt",
         "genre": "web",
         "source": "Morgenpost",
         "year": "2018",
@@ -692,17 +692,17 @@
         "title": "Printing Money",
         "genre": "web",
         "source": "Neal Agarwal",
-        "year": "unknown",
+        "year": "n.d.",
         "link": "https://neal.fun/printing-money/",
         "tag": "",
         "topic": "Economy",
-        "description": "Comparing the income of laypeople with that of the billionnaires.",
+        "description": "Comparing the income of laypeople with that of the billionaires.",
         "recommender": "E9",
         "method": "<span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>concrete scale</span>"
     },
     {
         "id": 55,
-        "title": "Steer through the Suez Canal",
+        "title": "Steer Through the Suez Canal",
         "genre": "web",
         "source": "CNN",
         "year": "2021",
@@ -711,11 +711,11 @@
         "topic": "Traffic",
         "description": "Understand how the ship gets stuck in the Suez Canal by playing a game.",
         "recommender": "E9",
-        "method": "<span class='badge badge_2'>role-play game</span><span class='badge badge_6'>tough task</span>"
+        "method": "<span class='badge badge_2'>role-playing game</span><span class='badge badge_6'>tough task</span>"
     },
     {
         "id": 56,
-        "title": "Wissen Sie noch, wo Deutschland geteilt war?",
+        "title": "Wissen Sie Noch, Wo Deutschland Geteilt War?",
         "genre": "web",
         "source": "Morgenpost",
         "year": "2018",
@@ -728,7 +728,7 @@
     },
     {
         "id": 57,
-        "title": "How powerful was the Beirut blast?",
+        "title": "How Powerful Was the Beirut Blast?",
         "genre": "web",
         "source": "Reuters",
         "year": "2020",
@@ -741,7 +741,7 @@
     },
     {
         "id": 58,
-        "title": "Derek Chauvin was found guilty – how typical is that of US police who kill?",
+        "title": "Derek Chauvin Was Found Guilty – How Typical Is That of US Police Who Kill?",
         "genre": "web",
         "source": "The Guardian",
         "year": "2021",
@@ -754,7 +754,7 @@
     },
     {
         "id": 59,
-        "title": "Oil spilled at sea",
+        "title": "Oil Spilled at Sea",
         "genre": "web",
         "source": "Reuters",
         "year": "2018",
@@ -767,7 +767,7 @@
     },
     {
         "id": 60,
-        "title": "Swirling smoke: How Australia's bushfire smoke spread",
+        "title": "Swirling Smoke: How Australia’s Bushfire Smoke Spread",
         "genre": "web",
         "source": "Reuters",
         "year": "2020",
@@ -839,13 +839,13 @@
         "link": "http://giorgialupi.com/bullettin-of-the-atomic-scientists",
         "tag": "",
         "topic": "Society",
-        "description": "A story that talks about the crisis for human beings, including the nuclear war, climate change, and disruptive technology.",
+        "description": "A story that talks about the crisis for human beings, including nuclear war, climate change, and disruptive technology.",
         "recommender": "E7",
         "method": "<span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span>"
     },
     {
         "id": 66,
-        "title": "China is surprisingly carbon-efficient—but still the world’s biggest emitter",
+        "title": "China Is Surprisingly Carbon-Efficient—But Still the World’s Biggest Emitter",
         "genre": "infographic",
         "source": "The Economist",
         "year": "2019",
@@ -871,7 +871,7 @@
     },
     {
         "id": 68,
-        "title": "CEO pay ratio",
+        "title": "CEO Pay Ratio",
         "genre": "web",
         "source": "Bloomberg",
         "year": "2021",
@@ -884,40 +884,40 @@
     },
     {
         "id": 69,
-        "title": "2017: the safest skies record",
+        "title": "2017: The Safest Skies Record",
         "genre": "infographic",
         "source": "SCMP",
         "year": "2018",
         "link": "https://multimedia.scmp.com/news/world/article/safety-aviation-2017/index.html",
         "tag": "",
         "topic": "Traffic",
-        "description": "This project visualizes the accidents in sky in 2017.",
+        "description": "This project visualizes the accidents in the sky in 2017.",
         "recommender": "E1",
         "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_1'>dense texture</span><span class='badge badge_3'>unit visualization</span>"
     },
     {
         "id": 70,
-        "title": "A view on despair",
+        "title": "A View on Despair",
         "genre": "infographic",
-        "source": "",
+        "source": "Studio Terp",
         "year": "2019",
         "link": "https://www.studioterp.nl/a-view-on-despair-a-datavisualization-project-by-studio-terp/",
         "tag": "",
         "topic": "Health / Society",
         "description": "An infographic that visualizes the suicide in the Netherland in 2017.",
         "recommender": "E2",
-        "method": "<span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span>"
+        "method": "<span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_3'>direct address</span>"
     },
     {
         "id": 71,
-        "title": "The true death toll of COVID-19",
+        "title": "The True Death Toll of COVID-19",
         "genre": "web",
         "source": "WHO",
         "year": "2021",
         "link": "https://www.who.int/data/stories/the-true-death-toll-of-covid-19-estimating-global-excess-mortality",
         "tag": "covid",
         "topic": "Health",
-        "description": "The eatimated global excess mortality in the world.",
+        "description": "The estimated global excess mortality in the world.",
         "recommender": "E5",
         "method": "<span class='badge badge_1'>dark background</span>"
     },
