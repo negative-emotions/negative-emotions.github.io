@@ -1260,7 +1260,8 @@ footer .footer-text {
     box-shadow: 3px 4px 8px rgba(92, 92, 92, 0.1);
 }
 
-@media (min-width: 476px) {
+
+/* @media (min-width: 476px) {
     .sidebar {
         display: block !important;
         padding-bottom: 0;
@@ -1275,7 +1276,7 @@ footer .footer-text {
         box-shadow: none;
         border-right: 1px solid #DEDEDE;
     }
-}
+} */
 
 .sidebar-panel {
     margin-top: 1.25rem;

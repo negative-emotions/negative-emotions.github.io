@@ -9,35 +9,35 @@
         "VNS_id": 1,
         "VNS_tag": "Attachment_to_reality",
         "VNS_color": "rgb(214, 214, 214)",
-        "VNS_desc": "This strategy is about linking readers with realistic things behind the data, such as the real scenes of something happening and real characters.",
+        "VNS_desc": "This strategy links viewers with realistic things behind the data, such as the real scenes of something happening and real characters.",
         "VNS_num": 4
     },
     {
         "VNS_id": 2,
         "VNS_tag": "Powerful_messaging",
         "VNS_color": "rgb(214, 214, 214)",
-        "VNS_desc": "This strategy elicits negative emotions by using punchy communication skills to inform readers something bad.",
+        "VNS_desc": "This strategy elicits negative emotions by using punchy or forceful language to inform viewers something bad.",
         "VNS_num": 4
     },
     {
         "VNS_id": 3,
         "VNS_tag": "Loss_of_control",
         "VNS_color": "rgb(214, 214, 214)",
-        "VNS_desc": "This strategy triggers negative emotions by removing people's ability to control the things happening during their reading process.",
+        "VNS_desc": "This strategy triggers negative emotions by removing people's ability to control the things happening during their viewing process.",
         "VNS_num": 2
     },
     {
         "VNS_id": 4,
         "VNS_tag": "Persistent_uncertainty",
         "VNS_color": "rgb(214, 214, 214)",
-        "VNS_desc": "This strategy poses people at an uncertain status for a relatively long time and thus triggers negative emotions.",
+        "VNS_desc": "This strategy puts people in an uncertain position for a relatively long time and thus triggers negative emotions.",
         "VNS_num": 1
     },
     {
         "VNS_id": 5,
         "VNS_tag": "Obstacles_and_failure",
         "VNS_color": "rgb(214, 214, 214)",
-        "VNS_desc": "This strategy elicits negative emotions by deliberately setting a task for readers and enticing them to fail.",
+        "VNS_desc": "This strategy elicits negative emotions by deliberately setting a task for viewers and enticing them to fail.",
         "VNS_num": 1
     }
 ]
