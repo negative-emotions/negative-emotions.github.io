@@ -427,8 +427,8 @@ Homepage_Card.prototype._bindEvents = function() {
         }
     });
 
-    // card footer URL
-    $(card_inner_node.querySelector(".card-footer a")).tooltip({ title: "link to the original work" });
+    // card footer URL 鼠标划过的tooltip
+    // $(card_inner_node.querySelector(".card-footer a")).tooltip({ title: "link to the original work" });
 
     // front gif static preview 鼠标hover播放gif的效果
     // front_img.addEventListener("mouseover", () => {
