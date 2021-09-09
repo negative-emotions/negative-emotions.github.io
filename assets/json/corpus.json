@@ -35,7 +35,7 @@
         "topic": "Health",
         "description": "Who are the 100,000 people who died from COVID-19?",
         "recommender": "E2",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>user behavior bound timer/counter</span><span class='badge badge_5'>stretched layout</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>user behavior bound timer/counter</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 4,
@@ -48,7 +48,7 @@
         "topic": "Health",
         "description": "Using sound to encode the death toll based on Stimuli-S2.",
         "recommender": "E2",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dense texture</span><span class='badge badge_3'>unit visualization</span>"
+        "method": "<span class='badge badge_1'>shrill/deep/pressing sound</span><span class='badge badge_1'>dense texture</span><span class='badge badge_3'>unit visualization</span>"
     },
     {
         "id": 5,
@@ -87,7 +87,7 @@
         "topic": "Health",
         "description": "The coronavirus exposed the rampant inequality in the US.",
         "recommender": "E5",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_1'>heavy use of red</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_4'>user behavior bound timer/counter</span>"
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_1'>heavy use of red</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotive language</span><span class='badge badge_4'>user behavior bound timer/counter</span>"
     },
     {
         "id": 8,
@@ -113,7 +113,7 @@
         "topic": "Health",
         "description": "A newsgame that asks users to make decisions on their outdoor activities and see how the virus spreads.",
         "recommender": "E7",
-        "method": "<span class='badge badge_2'>role-playing game</span><span class='badge badge_3'>direct address</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_6'>tough task</span>"
+        "method": "<span class='badge badge_2'>role-playing game</span><span class='badge badge_3'>negative phrasing</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_6'>tough task</span>"
     },
     {
         "id": 10,
@@ -126,7 +126,7 @@
         "topic": "Health",
         "description": "Using animated flowers to show how COVID-19 cases increase over time.",
         "recommender": "E7",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>metaphor with negative semantics</span>"
+        "method": "<span class='badge badge_1'>shrill/deep/pressing sound</span><span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>metaphor with negative semantics</span>"
     },
     {
         "id": 11,
@@ -152,7 +152,7 @@
         "topic": "Health",
         "description": "This story calls for attention to the need for mental health and addiction support after the outbreak of COVID-19.",
         "recommender": "E5",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>direct address</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>negative phrasing</span>"
     },
     {
         "id": 13,
@@ -191,7 +191,7 @@
         "topic": "Military",
         "description": "Explaining the death toll of WWII and reflecting on this tragedy.",
         "recommender": "Experimenter",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dark background</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_5'>stretched layout</span>"
+        "method": "<span class='badge badge_1'>shrill/deep/pressing sound</span><span class='badge badge_1'>dark background</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotive language</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 28,
@@ -204,7 +204,7 @@
         "topic": "Environment",
         "description": "Showing how much water we use every day and calling for water-saving.",
         "recommender": "Experimenter",
-        "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>direct address</span><span class='badge badge_5'>stretched layout</span>"
+        "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>negative phrasing</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 42,
@@ -230,7 +230,7 @@
         "topic": "Society",
         "description": "The serious consequences brought by the leak of private data.",
         "recommender": "Experimenter",
-        "method": "<span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>direct address</span>"
+        "method": "<span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>negative phrasing</span>"
     },
     {
         "id": 14,
@@ -256,7 +256,7 @@
         "topic": "Health / Gender",
         "description": "This work talks about the mothers who died in childbirth and reported the stories of 16 mothers.",
         "recommender": "E1",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>self-run animation</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_4'>self-run animation</span>"
     },
     {
         "id": 16,
@@ -308,7 +308,7 @@
         "topic": "Natural disaster",
         "description": "A project that visualizes the notable natural disasters in the world.",
         "recommender": "E1",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span>"
+        "method": "<span class='badge badge_1'>shrill/deep/pressing sound</span><span class='badge badge_1'>dark background</span><span class='badge badge_1'>dense texture</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_1'>sharp/distorted shape</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotive language</span>"
     },
     {
         "id": 20,
@@ -321,7 +321,7 @@
         "topic": "Politics / Media",
         "description": "This project visualizes the emotions expressed by Trump's twitters.",
         "recommender": "E1",
-        "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotional rhetoric</span>"
+        "method": "<span class='badge badge_1'>heavy use of red</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>emotive language</span>"
     },
     {
         "id": 21,
@@ -334,7 +334,7 @@
         "topic": "Society / Safety",
         "description": "1,322 people killed by gun shootings and who are the shooters",
         "recommender": "E2",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotional rhetoric</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_5'>stretched layout</span>"
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_2'>details behind data</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 22,
@@ -386,7 +386,7 @@
         "topic": "Society / Media",
         "description": "Mining the texts left by a melancholiac who has committed suicide.",
         "recommender": "E2",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span>"
+        "method": "<span class='badge badge_1'>shrill/deep/pressing sound</span>"
     },
     {
         "id": 26,
@@ -594,7 +594,7 @@
         "topic": "Economy",
         "description": "Enter your income and see whether you are rich.",
         "recommender": "E9",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_3'>direct address</span>"
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_3'>negative phrasing</span>"
     },
     {
         "id": 47,
@@ -815,7 +815,7 @@
         "topic": "Environment",
         "description": "A project that visualized the endangered birds, their current status, and how to protect them.",
         "recommender": "E8",
-        "method": "<span class='badge badge_1'>shrill/deep/pressing music</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span>"
+        "method": "<span class='badge badge_1'>shrill/deep/pressing sound</span><span class='badge badge_1'>dense texture</span><span class='badge badge_2'>details behind data</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span>"
     },
     {
         "id": 64,
@@ -906,7 +906,7 @@
         "topic": "Health / Society",
         "description": "An infographic that visualizes the suicide in the Netherland in 2017.",
         "recommender": "E2",
-        "method": "<span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_3'>direct address</span>"
+        "method": "<span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_3'>negative phrasing</span>"
     },
     {
         "id": 71,
