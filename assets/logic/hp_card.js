@@ -315,6 +315,7 @@ class Homepage_Card {
             this.parameters["ineffective_3"]
         ];
 
+
         card_body_node.classList.add("card-body");
         card_body_effective_node.classList.add("card-body-caption");
         card_body_ineffective_node.classList.add("card-body-caption");
@@ -327,6 +328,12 @@ class Homepage_Card {
             effective_item_html = `<div><span>${key}: </span>${effective_valueArr[i]}</div>`;
             card_body_effective_node.innerHTML += effective_item_html;
         });
+
+        //特殊情况，没有ineffective的
+        if (ineffective_valueArr.toString() == ',,') {
+            ineffective_item_html = `<div>no comment in this category :)</div>`;
+            card_body_ineffective_node.innerHTML += ineffective_item_html;
+        }
 
         Homepage_Card.caption_keyArr.forEach((key, i, keyList) => {
             if (ineffective_valueArr[i] === "") {

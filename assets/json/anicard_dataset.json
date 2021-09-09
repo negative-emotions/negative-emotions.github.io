@@ -180,7 +180,7 @@
         "effective_3": "I completely put myself into this story. I felt fearful, sad, and anxious, but the experience itself is very interesting.",
         "ineffective_1": "The game is so fun that I almost forgot the tragedies told by the game.",
         "ineffective_2": "Maybe the game settings are too crude? I did not really believe in the character.",
-        "ineffective_3": "-"
+        "ineffective_3": ""
     },
     {
         "card_id": 9,
@@ -199,11 +199,11 @@
         "snapshot": "9.gif",
         "rating": "77%",
         "effective_1": "Extremely sad. They were mothers, childrens, soilders, but now they are all dead.",
-        "effective_2": "They provide detailed information of the dead. I was totally moved because they look so real.",
+        "effective_2": "They lets you explore the guys behind data. I was totally moved because these people look so real.",
         "effective_3": "A person used to win a cancer but was finnaly beaten by COVID. Powerless for him.",
-        "ineffective_1": "-",
-        "ineffective_2": "-",
-        "ineffective_3": "-"
+        "ineffective_1": "Good design and I was engaged by the detailed story pieces.",
+        "ineffective_2": "This chart explains data clearly to me.",
+        "ineffective_3": "I think abstract data can also be powerful."
     },
     {
         "card_id": 10,
@@ -244,12 +244,12 @@
         "eg_url": "http://fingfx.thomsonreuters.com/gfx/rngs/OIL-SPILLS/010060SL1GQ/index.html",
         "snapshot": "11.gif",
         "rating": "29%",
-        "effective_1": "",
-        "effective_2": "",
-        "effective_3": "",
-        "ineffective_1": "",
-        "ineffective_2": "",
-        "ineffective_3": ""
+        "effective_1": "When I realized that this design is a metaphor of death, I feel very depressed.",
+        "effective_2": "This visualization mimics the imagery of virus, which is very shocking.",
+        "effective_3": "Impressed by the visual. It is expressive of despair while not being too explicit.",
+        "ineffective_1": "I understand this metaphor but I view it as an artwork.",
+        "ineffective_2": "Confused about this chart. I had a hard time understanding how to interpret it.",
+        "ineffective_3": "This design is exquisite but useless."
     },
     {
         "card_id": 12,
@@ -267,12 +267,12 @@
         "eg_url": "https://visual.ly/community/Infographics/technology/do-you-know-whos-watching-you",
         "snapshot": "12.png",
         "rating": "88%",
-        "effective_1": "",
-        "effective_2": "",
-        "effective_3": "",
-        "ineffective_1": "I don't think it is professional to use emotional expressions.",
-        "ineffective_2": "",
-        "ineffective_3": ""
+        "effective_1": "The author kept emphasizing the death toll. I can feel his/her anger and powerlessness.",
+        "effective_2": "I was sadenned by ``The poor got poorer, the rich got richer, and the bodies piled up.''",
+        "effective_3": "The language in this story is touching. It intensified my sadness.",
+        "ineffective_1": "I don't think it is professional to use emotional expressions in a news.",
+        "ineffective_2": "The language did not affect me that much.",
+        "ineffective_3": "Too many texts...I did not read them very carefully."
     },
     {
         "card_id": 13,
@@ -290,12 +290,12 @@
         "eg_url": "https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.html",
         "snapshot": "13.png",
         "rating": "68%",
-        "effective_1": "",
-        "effective_2": "",
-        "effective_3": "",
-        "ineffective_1": "I am not familiar with this scale, so it has little impact on me.",
-        "ineffective_2": "",
-        "ineffective_3": ""
+        "effective_1": "It really made me understand the scla of death. I never thought so many people had died so I felt extremely shocked.",
+        "effective_2": "A whole city would disaapear if we placed all the deaths together. How horrible it would be!",
+        "effective_3": "Shocked because it clearly showed me how cruel the virus is.",
+        "ineffective_1": "I am not familiar with this scale.",
+        "ineffective_2": "It's still hard for me to percive how long is a mile...not intuitive enough.",
+        "ineffective_3": "This method is very novel and fun."
     },
     {
         "card_id": 14,
@@ -313,12 +313,12 @@
         "eg_url": "https://www.nytimes.com/interactive/2019/08/01/upshot/are-you-rich.html",
         "snapshot": "14.png",
         "rating": "62%",
-        "effective_1": "",
-        "effective_2": "",
-        "effective_3": "",
-        "ineffective_1": "This address is not persuasive for me.",
-        "ineffective_2": "",
-        "ineffective_3": ""
+        "effective_1": "The warning triggered tension from me.",
+        "effective_2": "It warned me something bad is going to be presented, thereby elicited fear",
+        "effective_3": "They told me my decision had caused more deaths. I felt guilty and frustrated.",
+        "ineffective_1": "Their address is not persuasive enough. I don't trust it.",
+        "ineffective_2": "The warning is just a reminder for me.",
+        "ineffective_3": "I did not pay attention to language since my attention was attracted to graphics."
     },
     {
         "card_id": 15,
@@ -336,9 +336,9 @@
         "eg_url": "https://www.nexojornal.com.br/especial/2020/08/08/100-mil-mortes-no-Brasil-o-c%C3%A1lculo-de-uma-trag%C3%A9dia",
         "snapshot": "15.png",
         "rating": "48%",
-        "effective_1": "It helped me perceive the huge amount of death better.",
+        "effective_1": "Shocked because it helped me perceive the huge amount of death better.",
         "effective_2": "Drawing every dead person as an individual icon is shocking and mind-blowing.",
-        "effective_3": "These dots make the data more concrete and imaginable",
+        "effective_3": "These dots made the deaths more concrete and imaginable...elicited worry from me.",
         "ineffective_1": "Those icons are not real people.",
         "ineffective_2": "I can't imagine who are the people behind the dots. They are still numbers.",
         "ineffective_3": "For me, it is just a way to show data clearly."
@@ -353,17 +353,17 @@
         "Chart_tag": "Pie chart",
         "VNS_ambiguity": 0,
         "AVT_tag": "",
-        "how": "How: Letting the animation plays automatically and cannot be canceled or paused.",
+        "how": "How: Letting the animation plays automatically once the viewers enter the page.",
         "eg_title": "title",
         "eg_source": "Samuel Sinyangwe",
         "eg_url": "https://mappingpoliceviolence.org/",
         "snapshot": "16.gif",
         "rating": "77%",
-        "effective_1": "",
-        "effective_2": "",
-        "effective_3": "",
-        "ineffective_1": "The sticky clock keeps attracting my attention so that I can't focus on reading.",
-        "ineffective_2": "I think this design is a liitle bit rude. I couldn't control anything.",
+        "effective_1": "I chose stress and anxiety because I couldn't handle the page.",
+        "effective_2": "The automatic animation...maybe driven by an algorithm?...made me feel helpless.",
+        "effective_3": "The death clock just stuck on the page and ran by itself, which was so horrible.",
+        "ineffective_1": "The sticky clock kept attracting my attention so that I couldn't focus on reading.",
+        "ineffective_2": "I think this design is a liitle bit rude.",
         "ineffective_3": "Curious about the design. I have never seen such design before."
     },
     {
@@ -382,9 +382,9 @@
         "eg_url": "https://theoceancleanup.com/sources/#",
         "snapshot": "17.gif",
         "rating": "70%",
-        "effective_1": "",
-        "effective_2": "",
-        "effective_3": "",
+        "effective_1": "The number kept increasing as I scrolled. This made me felt very anxious.",
+        "effective_2": "Helpless...If you want to keep reading, you hava to trigger the deaths counter.",
+        "effective_3": "I felt stressful when they told me how many people had died since I opened the page.",
         "ineffective_1": "I got numb with numbers. I didn't feel any emotion when the number increases.",
         "ineffective_2": "Confused because I don't understand why the number is increasing.",
         "ineffective_3": "It shows the growing trend clearly."
@@ -405,10 +405,10 @@
         "eg_url": "https://www.nytimes.com/interactive/2020/05/08/business/economy/april-jobs-report.html",
         "snapshot": "18.gif",
         "rating": "44%",
-        "effective_1": "",
-        "effective_2": "",
-        "effective_3": "",
-        "ineffective_1": "I lost patience with it. I just want to skip to its end.",
+        "effective_1": "It was so anxious and helpless when I kept scrolling and saw endless deaths",
+        "effective_2": "The lengthy layout really magnified my tension and fear. This design is definitely more effective than showing results to the viewers immediately.",
+        "effective_3": "My emotions fluctuated between hope and despair during the scrolling process.",
+        "ineffective_1": "I lost patience with scrolling.",
         "ineffective_2": "It's so long. Why not make it shorter?",
         "ineffective_3": "I got bored during the scrolling process."
     },
@@ -431,8 +431,8 @@
         "effective_1": "I was very frustrated when I found I did not play well.",
         "effective_2": "I wanted to win the game and achieve my goals, so I felt angry and a little bit annoyed when I actually failled.",
         "effective_3": "I got really nervous when the epidemic could not be controlled.",
-        "ineffective_1": "-",
-        "ineffective_2": "-",
-        "ineffective_3": "-"
+        "ineffective_1": "",
+        "ineffective_2": "",
+        "ineffective_3": ""
     }
 ]
