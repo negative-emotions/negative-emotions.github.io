@@ -113,7 +113,7 @@
         "topic": "Health",
         "description": "A newsgame that asks users to make decisions on their outdoor activities and see how the virus spreads.",
         "recommender": "E7",
-        "method": "<span class='badge badge_2'>role-playing game</span><span class='badge badge_3'>negative phrasing</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_6'>tough task</span>"
+        "method": "<span class='badge badge_2'>role-playing game</span><span class='badge badge_3'>harsh treatment</span><span class='badge badge_4'>self-run animation</span><span class='badge badge_6'>tough task</span>"
     },
     {
         "id": 10,
@@ -152,7 +152,7 @@
         "topic": "Health",
         "description": "This story calls for attention to the need for mental health and addiction support after the outbreak of COVID-19.",
         "recommender": "E5",
-        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>negative phrasing</span>"
+        "method": "<span class='badge badge_1'>dark background</span><span class='badge badge_1'>fade-out effect</span><span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>harsh treatment</span>"
     },
     {
         "id": 13,
@@ -204,7 +204,7 @@
         "topic": "Environment",
         "description": "Showing how much water we use every day and calling for water-saving.",
         "recommender": "Experimenter",
-        "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>negative phrasing</span><span class='badge badge_5'>stretched layout</span>"
+        "method": "<span class='badge badge_1'>dense texture</span><span class='badge badge_3'>emotive language</span><span class='badge badge_3'>concrete scale</span><span class='badge badge_3'>harsh treatment</span><span class='badge badge_5'>stretched layout</span>"
     },
     {
         "id": 42,
@@ -230,7 +230,7 @@
         "topic": "Society",
         "description": "The serious consequences brought by the leak of private data.",
         "recommender": "Experimenter",
-        "method": "<span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>negative phrasing</span>"
+        "method": "<span class='badge badge_2'>picture with negative semantics</span><span class='badge badge_3'>harsh treatment</span>"
     },
     {
         "id": 14,
@@ -594,7 +594,7 @@
         "topic": "Economy",
         "description": "Enter your income and see whether you are rich.",
         "recommender": "E9",
-        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_3'>negative phrasing</span>"
+        "method": "<span class='badge badge_1'>big size</span><span class='badge badge_3'>harsh treatment</span>"
     },
     {
         "id": 47,
@@ -906,7 +906,7 @@
         "topic": "Health / Society",
         "description": "An infographic that visualizes the suicide in the Netherland in 2017.",
         "recommender": "E2",
-        "method": "<span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_3'>negative phrasing</span>"
+        "method": "<span class='badge badge_2'>metaphor with negative semantics</span><span class='badge badge_3'>unit visualization</span><span class='badge badge_3'>harsh treatment</span>"
     },
     {
         "id": 71,
