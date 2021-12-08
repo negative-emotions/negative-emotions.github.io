@@ -340,7 +340,7 @@ class Homepage_Card {
                 return;
             }
             ineffective_item_html = `<div><span>${key}: </span>${ineffective_valueArr[i]}</div>`;
-            card_body_ineffective_node.innerHTML += ineffective_item_html;
+            //card_body_ineffective_node.innerHTML += ineffective_item_html;
         });
 
 
